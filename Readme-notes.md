@@ -1,0 +1,6 @@
+-app folder represents the route 
+-file name in the folder is the url to that file or page or dynamic route
+-index.tsx represents starting point or home route
+-useLocalSearchParams will store te parameter passed in the url Using <Link> tag just like react-router-dom Link
+-Groups are good for organizing sections of apps ; we can prevent a segment from showing in url by usineg '()'
+-header of app can be changed in the _layout.tsx 
